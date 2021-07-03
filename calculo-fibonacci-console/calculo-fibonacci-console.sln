@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculo-fibonacci-console", "calculo-fibonacci-console.csproj", "{E08C53BC-98F2-4604-97D6-FF7CD5CCB6BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08C53BC-98F2-4604-97D6-FF7CD5CCB6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08C53BC-98F2-4604-97D6-FF7CD5CCB6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08C53BC-98F2-4604-97D6-FF7CD5CCB6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08C53BC-98F2-4604-97D6-FF7CD5CCB6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C6B427-3362-4221-816B-25243EADF7F9}
+	EndGlobalSection
+EndGlobal
