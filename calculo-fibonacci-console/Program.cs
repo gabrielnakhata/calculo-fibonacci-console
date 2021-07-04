@@ -10,6 +10,20 @@ namespace calculo_fibonacci_console
             Console.ReadKey();
             Console.WriteLine("Digite um número...");
             int quantVezesSequenciaUsuario = int.Parse(Console.ReadLine());
+            double x = 0;
+            double y = 1;
+
+            Console.Write(x + ", ");
+            Console.Write(y + ", ");
+
+
+            for (int i = 0; i < quantVezesSequenciaUsuario; i++)
+            {
+                double z = x + y;
+                Console.Write(z + ", ");
+                x = y;
+                y = z;
+            }
 
         }
     }
